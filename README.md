@@ -7,7 +7,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving cybersecurity puzzles and hate sunlight! 🌞🚫
 - 📫 How to reach me:
-<a href="https://www.instagram.com/farjani.brahim/">![Instagram_icon](https://github.com/user-attachments/assets/fdc59b75-0ecc-41d4-86f4-29ecfe40ada2)
+<a href="https://www.instagram.com/farjani.brahim/">![file (1)](https://github.com/user-attachments/assets/e041cc20-07c3-4ac9-8724-214ac9855cb1)</a>
+<a href="https://brahimfarjani.github.io/">![portfolio](https://github.com/user-attachments/assets/f68888af-9048-4550-973c-477f4dafa83f)</a>
+<a href="https://www.instagram.com/farjani.brahim/">
 </a>
 
 - :construction_worker: This is my Portfolio :point_down:
