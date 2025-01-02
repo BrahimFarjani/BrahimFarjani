@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @BrahimFarjani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Cybersecurity and Systems & Network Administration
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-BrahimFarjani/BrahimFarjani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Cybersecurity, PenTesting, and Systems & Network Administration
+- 🌱 I’m currently learning advanced security measures, network defense strategies, and cloud technologies
+- 💞️ I’m looking to collaborate on open-source cybersecurity tools, automation scripts, and network security projects
+- 📫 How to reach me:
+- Email: [farjaniibrahim2004@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/brahim-farjani-543b9030a/]
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love solving cybersecurity puzzles and hate sunlight! 🌞🚫
