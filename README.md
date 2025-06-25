@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/BrahimFarjani/BrahimFarjani/blob/master/cooltext485265544420911.gif]" alt="Hi, I'm Brahim Farjani" />
+  <img src="[cooltext485265544420911.gif]" />
 </p>
 
 - 👋 **Hi, I'm @BrahimFarjani**  
