@@ -33,7 +33,13 @@
 + 🚨 SOC Operations (Wazuh/Splunk)
 
 
-## 🌐 Let's Connect
+## 📊 GitHub Analytics
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:farjaniibrahim2004@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/brahim-farjani-543b9030a)
+[![Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=dark)](https://github.com/BrahimFarjani)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahimFarjani&layout=compact)](https://github.com/BrahimFarjani)
+
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farjaniibrahim2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-farjani-543b9030a/)
