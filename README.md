@@ -33,6 +33,14 @@
 + 🚨 SOC Operations (Wazuh/Splunk)
 
 
+## 📊 GitHub Analytics
+
 [![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=dark)](https://github.com/BrahimFarjani)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrahimFarjani&layout=compact)](https://github.com/BrahimFarjani)
 
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farjaniibrahim2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-farjani-543b9030a/)
+
+https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=gruvbox
