@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://github.com/BrahimFarjani/BrahimFarjani/blob/master/cooltext485265544420911.gif]" alt="Hi, I'm Brahim Farjani" />
+</p>
+
 - 👋 **Hi, I'm @BrahimFarjani**  
   `DevOps | Odoo Dev | Cyber Security | Network Defender | Cloud Security`
 
