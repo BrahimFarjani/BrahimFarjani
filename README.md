@@ -1,6 +1,8 @@
 - 👋 **Hi, I'm @BrahimFarjani**  
   `DevOps | Odoo Dev | Cyber Security | Network Defender | Cloud Security`
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=radical)](https://github.com/BrahimFarjani)
+
 - 🔭 **Domaines d'Expertise**  
   ![Pentesting](https://img.shields.io/badge/-PenTesting-0077B5?style=flat&logo=linux&logoColor=white)
   ![Network Security](https://img.shields.io/badge/-Network_Security-000000?style=flat&logo=cisco&logoColor=white)
