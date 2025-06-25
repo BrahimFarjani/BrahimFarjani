@@ -14,3 +14,5 @@
 - :construction_worker: This is my Portfolio :point_down:
   
 ![file](https://github.com/user-attachments/assets/b984df29-d2ed-4689-801c-7901ce8eb2e8)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=radical)](https://github.com/BrahimFarjani)
