@@ -1,6 +1,15 @@
 - 👋 **Hi, I'm @BrahimFarjani**  
   `DevOps | Odoo Dev | Cyber Security | Network Defender | Cloud Security`
 
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farjaniibrahim2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-farjani-543b9030a/)
+
+
+📊 GitHub Insights
+
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=radical)](https://github.com/BrahimFarjani)
 
 - 🔭 **Domaines d'Expertise**  
