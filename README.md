@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[cooltext485265544420911.gif]" />
+  <img src="cooltext485265544420911.gif" alt="Titre animé" />
 </p>
 
 - 👋 **Hi, I'm @BrahimFarjani**  
