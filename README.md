@@ -35,12 +35,11 @@
 
 ## 📊 GitHub Analytics
 
-[![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=dark)](https://github.com/BrahimFarjani)
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=BrahimFarjani&layout=compact)](https://github.com/BrahimFarjani)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=radical)](https://github.com/BrahimFarjani)
+
 
 ## 📫 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farjaniibrahim2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-farjani-543b9030a/)
-
-https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=gruvbox
+<a href="mailto:farjaniibrahim2004@gmail.com">![gmail](https://github.com/user-attachments/assets/9d2a3164-1191-4126-b4dd-d8ea70da2de2)</a>
+<a href="https://www.linkedin.com/in/brahim-farjani-543b9030a/">![linkedin](https://github.com/user-attachments/assets/d7586a45-11a8-4efc-af3e-ff386b5f9805)
+</a>
