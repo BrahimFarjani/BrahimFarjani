@@ -21,7 +21,6 @@
   ![Odoo Dev](https://img.shields.io/badge/-Odoo_Development-000000?style=flat&logo=odoo&logoColor=white)
   ![Cloud Security](https://img.shields.io/badge/-Cloud_Security-0077B5?style=flat&logo=aws&logoColor=white)
   ![Web Dev](https://img.shields.io/badge/-Web_Development-000000?style=flat&logo=html5&logoColor=white)
-                                                  |
 
 ## 🔥 **Technical Stack Breakdown**
 
