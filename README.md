@@ -32,8 +32,8 @@
 + 💉 Vulnerability Assessment
 + 🚨 SOC Operations (Wazuh/Splunk)
 
-<div align="center">
-https://githubreadmestats.vercel.app/api/toplangs/username=BrahimFarjani&layout=compact&theme=algolia&hide_border=true&bg_color=000000&title_color=0077B5&text_color=FFFFFF&hide=html,css&langs_count=6
 
-https://github-readme-stats.vercel.app/api/pin/?username=BrahimFarjani&repo=Security-Toolkit&theme=algolia&show_owner=true
-</div>
+## 🌐 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:farjaniibrahim2004@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/brahim-farjani-543b9030a)
