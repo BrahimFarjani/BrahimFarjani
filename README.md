@@ -33,8 +33,7 @@
 + 🚨 SOC Operations (Wazuh/Splunk)
 
 <div align="center">
-https://github-readme-stats.vercel.app/api/top-langs/?username=BrahimFarjani&layout=compact&theme=algolia&hide_border=true&bg_color=000000&title_color=0077B5&text_color=FFFFFF&hide=html,css&langs_count=6
+https://githubreadmestats.vercel.app/api/toplangs/username=BrahimFarjani&layout=compact&theme=algolia&hide_border=true&bg_color=000000&title_color=0077B5&text_color=FFFFFF&hide=html,css&langs_count=6
 
 https://github-readme-stats.vercel.app/api/pin/?username=BrahimFarjani&repo=Security-Toolkit&theme=algolia&show_owner=true
-
-</div> ```
+</div>
