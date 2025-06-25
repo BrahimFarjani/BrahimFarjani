@@ -38,7 +38,6 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=dark)](https://github.com/BrahimFarjani)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrahimFarjani&layout=compact)](https://github.com/BrahimFarjani)
 
-
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farjaniibrahim2004@gmail.com)
