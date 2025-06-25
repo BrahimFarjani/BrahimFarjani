@@ -32,12 +32,9 @@
 + 💉 Vulnerability Assessment
 + 🚨 SOC Operations (Wazuh/Splunk)
 
-Type	Badge	Description
-Odoo	https://img.shields.io/badge/Odoo-Module_Development-714B67?style=for-the-badge&logo=odoo
-Custom HR Payroll System with Biometric Integration
-DevOps	https://img.shields.io/badge/DevOps-Auto_Scaling_Cluster-0077B5?style=for-the-badge&logo=amazonaws
-Kubernetes Cluster with Auto-Healing Capabilities
-CloudSec	https://img.shields.io/badge/Cloud-Security_Audit-232F3E?style=for-the-badge&logo=amazonaws
-AWS Landing Zone with CIS Benchmark Compliance
-Pentest	https://img.shields.io/badge/Pentest-Web_App_Assessment-EA5C0D?style=for-the-badge&logo=metasploitFull-Scope
-Vulnerability Assessment for FinTech Startup
+<div align="center">
+https://github-readme-stats.vercel.app/api/top-langs/?username=BrahimFarjani&layout=compact&theme=algolia&hide_border=true&bg_color=000000&title_color=0077B5&text_color=FFFFFF&hide=html,css&langs_count=6
+
+https://github-readme-stats.vercel.app/api/pin/?username=BrahimFarjani&repo=Security-Toolkit&theme=algolia&show_owner=true
+
+</div> ```
