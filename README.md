@@ -1,18 +1,62 @@
-- 👋 Hi, I’m @BrahimFarjani
-- 👀 I’m interested in Cybersecurity, PenTesting, and Systems & Network Administration
-- 🌱 I’m currently learning advanced security measures, network defense strategies, and cloud technologies
-- 💞️ I’m looking to collaborate on open-source cybersecurity tools, automation scripts, and network security projects
-- 📫 How to reach me:
+- 👋 **Hi, I'm @BrahimFarjani**  
+  `Cyber Security Enthusiast | Network Defender | Cloud Security Learner`
 
-<a href="mailto:farjaniibrahim2004@gmail.com">![gmail](https://github.com/user-attachments/assets/9d2a3164-1191-4126-b4dd-d8ea70da2de2)</a>
-<a href="https://www.linkedin.com/in/brahim-farjani-543b9030a/">![linkedin](https://github.com/user-attachments/assets/d7586a45-11a8-4efc-af3e-ff386b5f9805)
-</a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving cybersecurity puzzles and hate sunlight! 🌞🚫
+- 🔭 **Domains of Expertise**  
+  ![Pentesting](https://img.shields.io/badge/-PenTesting-0077B5?style=flat&logo=linux&logoColor=white)
+  ![Network Security](https://img.shields.io/badge/-Network_Security-000000?style=flat&logo=cisco&logoColor=white)
+  ![Cloud Security](https://img.shields.io/badge/-Cloud_Security-0082C9?style=flat&logo=aws&logoColor=white)
 
+- 🌱 **Currently Mastering**  
+  ```diff
+  + Advanced Threat Detection
+  + Cloud Infrastructure Security (AWS/Azure)
+  + SIEM Solutions (Splunk/Wazuh)
+💼 Collaboration Interests
 
-- :construction_worker: This is my Portfolio :point_down:
-  
-![file](https://github.com/user-attachments/assets/b984df29-d2ed-4689-801c-7901ce8eb2e8)
+Open-source security tools development 🔓
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=gruvbox)](https://github.com/BrahimFarjani)
+Network defense automation scripts 🤖
+
+Red Team/Blue Team projects 🛡️⚔️
+
+📫 Reach Me At
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+📊 GitHub Analytics
+https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=algolia&hide_border=true&bg_color=000000&title_color=0077B5&text_color=FFFFFF&icon_color=0077B5
+https://github-readme-stats.vercel.app/api/top-langs/?username=BrahimFarjani&layout=compact&theme=algolia&hide_border=true&bg_color=000000&title_color=0077B5&text_color=FFFFFF
+
+⚡ Cyber Fun Fact
+
+"I can bypass firewalls but can't escape my love for coffee! ☕🔐"
+
+🛠️ Security Toolbox
+Category	Technologies/Tools
+Pentesting	Metasploit, Burp Suite, Nmap
+Defense	Wazuh, Snort, pfSense
+Cloud	AWS Security Hub, Azure Sentinel
+Automation	Python, Bash, Ansible
+text
+
+### Points clés du design :
+1. **Couleurs** : Palette bleu (#0077B5) et noir (#000000) dominante
+2. **Badges** : 
+   - Style "for-the-badge" pour les contacts
+   - Badges customisés pour vos spécialités
+3. **Stats GitHub** : 
+   - Thème `algolia` (bleu/noir)
+   - Couleurs customisées via paramètres URL
+4. **Éléments visuels** :
+   - Tableau formaté pour vos outils
+   - Bloc de code pour les apprentissages en cours
+   - Citation stylisée pour le fun fact
+
+### Pour aller plus loin :
+- Ajoutez un header image avec un motif binaire/hacker style
+- Intégrez un GIF animé de terminal (ex: `neofetch` output)
+- Utilisez [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) pour des trophées visuels
+
+Exemple d'intégration de trophées :
+```markdown
+[![Trophées](https://github-profile-trophy.vercel.app/?username=BrahimFarjani&theme=onedark&no-frame=true&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
