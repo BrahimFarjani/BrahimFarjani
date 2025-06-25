@@ -16,22 +16,21 @@
  <td align='center' width="200">
         <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/27a7c39c-6c5e-4cec-9110-0de89ebd9d05" width="100">
     </td>
-    
-</tr>
- <tr>
-   
   <td align='center' width="200">
         <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/e99ac296-f64c-479c-bf6a-1958c2713e9b" width="100%">
     </td>
-  <td align='center'  width="200">
+      <td align='center'  width="200">
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
-<td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/64937b04-5c3a-4a46-b3f1-2c2375a27725" >
-    </td>
+</tr>
+ <tr>
 
 </tr>
 <tr>
+	
+<td align='center'  width="200">
+        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/64937b04-5c3a-4a46-b3f1-2c2375a27725" >
+    </td>
     <td align='center' width="200">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="100">
     </td>
