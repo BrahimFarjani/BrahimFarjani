@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Analytics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=gruvbox)](https://github.com/BrahimFarjani)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=gruvbox)(https://github.com/BrahimFarjani)
 
 ## 📫 Contact
 
