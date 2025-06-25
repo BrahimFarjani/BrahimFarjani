@@ -15,4 +15,4 @@
   
 ![file](https://github.com/user-attachments/assets/b984df29-d2ed-4689-801c-7901ce8eb2e8)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=dark)](https://github.com/BrahimFarjani)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrahimFarjani&show_icons=true&theme=cobalt)](https://github.com/BrahimFarjani)
