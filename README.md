@@ -1,11 +1,82 @@
 - 👋 **Hi, I'm @BrahimFarjani**  
   `DevOps | Odoo Dev | Cyber Security | Network Defender | Cloud Security`
 
+<table width="100" align='justify-center'>
+<tr>
+
+  <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  width="80">
+    </td>
+  <td align='center' width="200">
+        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100">
+    </td>
+    <td align='center' width="200">
+<!--         <img src="https://buttercms.com/static/images/tech_banners/Flask.png" width="100"> -->
+	     <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/3e54b6b8-a958-455b-a9da-98cce8d34378" width="100">
+    </td>
+
+ <td align='center' width="200">
+        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/27a7c39c-6c5e-4cec-9110-0de89ebd9d05" width="100">
+    </td>
+ <td align='center'  width="200">
+        <img src="https://github.com/opencv/opencv/wiki/logo/OpenCV_logo_no_text.png" width="100">
+    </td>
+	
+</tr>
+ <tr>
+   
+  
+<td align='center'  width="200">
+        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/9042153c-74b1-407a-94d9-6e5657b3044c" >
+    </td>
+	 <td align='center' width="200">
+        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/e99ac296-f64c-479c-bf6a-1958c2713e9b" width="100%">
+    </td>
+  <td align='center'  width="200">
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+<td align='center'  width="200">
+        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/64937b04-5c3a-4a46-b3f1-2c2375a27725" >
+    </td>
+	  
+  <td align='center'  width="200">
+        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/30d22378-8123-4eea-9a9d-1bfc295a2583" >
+    </td>
+	
+
+</tr>
+<tr>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="100">
+    </td>
+    <td align='center' width="200">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="100">
+    </td>
+  
+ <td align='center'  width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="100">
+    </td>
+	
+ <td align='center' width="200">
+        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/afaefa9d-951b-429a-9f3d-cd522ff08048" width="100">
+    </td>
+	 <td align='center' width="200">
+        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
+    </td>
+ 
+	
+    
+</tr>
+ 
+
+    
+</table>
 
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farjaniibrahim2004@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brahim-farjani-543b9030a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brahimfarjani.github.io/)
 
 
 ## 📊 GitHub Analytics
@@ -43,3 +114,4 @@
 + 🔍 OSINT & Threat Intelligence
 + 💉 Vulnerability Assessment
 + 🚨 SOC Operations (Wazuh/Splunk)
+
