@@ -12,10 +12,6 @@
 <table align="center">
 <tr>
 
-<td align='center' width="200">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="80">
-</td>
-
 <td align='center' width="200"> 
   <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100"> 
 </td>
@@ -36,12 +32,11 @@
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" > 
 </td>
 
+</tr>
+
+<tr>
 <td align="center" width="120">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
-</td>
-
-<td align="center" width="120">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="60"/><br>Django
 </td>
 
 <td align="center" width="120">
@@ -84,13 +79,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br>MongoDB
 </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br>Linux
-</td>
-
 </tr>
 
 <tr>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br>Linux
+</td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60"/><br>Windows
@@ -108,6 +103,11 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg" width="90"/><br>Fortinet
 </td>
 
+</tr>
+
+
+<tr>
+
 <td align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70"/><br>AWS
 </td>
@@ -115,10 +115,6 @@
 <td align="center">
 <img src="https://coroot.com/static/images/logo.svg" width="90"/><br>CoRoot
 </td>
-
-</tr>
-
-<tr>
 
 <td align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Uptime_Robot_Logo.svg" width="90"/><br>UptimeRobot
