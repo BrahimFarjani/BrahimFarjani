@@ -9,55 +9,58 @@
 <tr>
 
   <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"  width="80">
-    </td>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="100">
+  </td>
+
   <td align='center' width="200">
-        <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100">
-    </td>
-    <td align='center' width="200">
-	     <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/3e54b6b8-a958-455b-a9da-98cce8d34378" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/27a7c39c-6c5e-4cec-9110-0de89ebd9d05" width="100">
-    </td>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Palo_Alto_Networks_Logo.svg" width="120">
+  </td>
+
   <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/e99ac296-f64c-479c-bf6a-1958c2713e9b" width="100%">
-    </td>
-      <td align='center'  width="200">
-        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
-    </td>
-</tr>
- <tr>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg" width="120">
+  </td>
+
+  <td align='center' width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="100">
+  </td>
+
+  <td align='center' width="200">
+    <img src="https://coroot.com/static/images/logo.svg" width="120">
+  </td>
+
+  <td align='center' width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Uptime_Robot_Logo.svg" width="120">
+  </td>
 
 </tr>
+
 <tr>
-	
-<td align='center'  width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/64937b04-5c3a-4a46-b3f1-2c2375a27725" >
-    </td>
-    <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="100">
-    </td>
-    <td align='center' width="200">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="100">
-    </td>
-  
- <td align='center'  width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="100">
-    </td>
-	
- <td align='center' width="200">
-        <img src="https://github.com/smuhabdullah/smuhabdullah/assets/58034394/afaefa9d-951b-429a-9f3d-cd522ff08048" width="100">
-    </td>
-	 <td align='center' width="200">
-        <img src="https://git-scm.com/images/logos/1color-darkbg@2x.png" width="100">
-    </td>
- 
-	
-    
-</tr>
- 
 
+  <td align='center' width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="80">
+  </td>
+
+  <td align='center' width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" width="80">
+  </td>
+
+  <td align='center' width="200">
+    <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png" width="120">
+  </td>
+
+  <td align='center' width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Redmine_logo.svg" width="100">
+  </td>
+
+  <td align='center' width="200">
+    <img src="https://glpi-project.org/wp-content/uploads/2020/06/logo-glpi.png" width="100">
+  </td>
+
+  <td align='center' width="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" width="100">
+  </td>
+
+</tr>
     
 </table>
 
