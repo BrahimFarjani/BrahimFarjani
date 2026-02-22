@@ -131,11 +131,11 @@
 </td>
 
 <td align="center" style="border:none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Wazuh-Logo-2022.png" width="90"/><br>vSphere
+<img src="https://cdn.springpeople.com/media/wazuh-logo.png" width="90"/><br>Wazuh
 </td>
 
 <td align="center" style="border:none;">
-<img src="https://docs.brevis.one/current/en/Content/Resources/Images/Images_EN/zabbix%20logo_370x133.png" width="90"/><br>vSphere
+<img src="https://docs.brevis.one/current/en/Content/Resources/Images/Images_EN/zabbix%20logo_370x133.png" width="90"/><br>Zabbix
 </td>
 </tr>
 
