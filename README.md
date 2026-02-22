@@ -137,7 +137,6 @@
 <td align="center" style="border:none;">
 <img src="https://docs.brevis.one/current/en/Content/Resources/Images/Images_EN/zabbix%20logo_370x133.png" width="90"/><br>Zabbix
 </td>
-</tr>
 
 <td align="center" style="border:none;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png" width="90"/><br>Bootstrap
