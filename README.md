@@ -12,7 +12,6 @@
 <table align="center" border="0" cellspacing="0" cellpadding="15" style="border:none; border-collapse:collapse;">
 
 <tr>
-
 <td align='center' width="200" style="border:none;">
   <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" width="100">
 </td>
@@ -32,11 +31,9 @@
 <td align='center' width="200" style="border:none;">
   <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png">
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" style="border:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
 </td>
@@ -56,11 +53,9 @@
 <td align="center" style="border:none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br>PostgreSQL
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" style="border:none;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>HTML5
 </td>
@@ -80,11 +75,9 @@
 <td align="center" style="border:none;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br>MongoDB
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" style="border:none;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br>Linux
 </td>
@@ -104,36 +97,34 @@
 <td align="center" style="border:none;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg" width="90"/><br>Fortinet
 </td>
-
 </tr>
 
 <tr>
-
 <td align="center" style="border:none;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70"/><br>AWS
 </td>
 
-<!-- <td align="center" style="border:none;">
-<img src="https://coroot.com/static/images/logo.svg" width="90"/><br>CoRoot
-</td> -->
-
 <td align="center" style="border:none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Uptime_Robot_Logo.svg" width="90"/><br>UptimeRobot
+<img src="https://cdn.pagerduty.com/wp-content/uploads/2021/03/uptimerobot-logo-09.png" width="90"/><br>UptimeRobot
 </td>
 
 <td align="center" style="border:none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Redmine_logo.svg" width="70"/><br>Redmine
+<img src="https://www.logo.wine/a/logo/Redmine/Redmine-Logo.wine.svg" width="70"/><br>Redmine
 </td>
 
 <td align="center" style="border:none;">
-<img src="https://glpi-project.org/wp-content/uploads/2020/06/logo-glpi.png" width="70"/><br>GLPI
+<img src="https://www.asfinformatique.com/glpi/pics/logos/logo-GLPI-250-black.png" width="70"/><br>GLPI
 </td>
 
 <td align="center" style="border:none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" width="70"/><br>Jira
+<img src="https://commons.wikimedia.org/wiki/File:Jira_Logo.svg" width="70"/><br>Jira
 </td>
+</tr>
 
-
+<tr>
+<td align="center" style="border:none;">
+<img src="https://avatars.githubusercontent.com/u/66906464?s=280&v=4" width="90"/><br>CoRoot
+</td>
 </tr>
 
 </table>
