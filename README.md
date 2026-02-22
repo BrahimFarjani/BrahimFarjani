@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Brahim Farjani</h1>
-<h3 align="center">DevOps | Odoo Developer | Cyber Security | Network Defender | Cloud Security</h3>
+<h3 align="center">Cyber Security | Network Defender | Cloud Security</h3>
 
 ---
 
@@ -139,21 +139,36 @@
 </td>
 </tr>
 
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png" width="90"/><br>Bootstrap
+</td>
+</tr>
+
+<tr>
+<td align="center" style="border:none;">
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" width="90"/><br>Laravel
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="90"/><br>Nodejs
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/3840px-PHP-logo.svg.png" width="90"/><br>php
+</td>
+</tr>
+
 </table>
+
+---
 
 ## 🔥 Technical Expertise
 
 ```diff
-# DevOps
-+ Docker & Kubernetes
-+ CI/CD (GitLab / GitHub Actions)
-+ Terraform & Ansible
-+ Monitoring (CoRoot, UptimeRobot)
-
-# Odoo Development
-+ Python & XML Custom Modules
-+ Odoo v16+
-+ PostgreSQL Optimization
+# Cloud & Infrastructure
++ AWS Cloud Security
++ Linux & Windows Server Administration
++ Network Security
 
 # Cyber Security
 + PenTesting
@@ -161,7 +176,16 @@
 + SOC Monitoring
 + Firewall Management (Cisco / Palo Alto / Fortinet)
 
-# Cloud & Infrastructure
-+ AWS Cloud Security
-+ Linux & Windows Server Administration
-+ Network Security
+# Development
++ HTML - CSS - Bootstrap
++ PHP - Laravel
++ Python
++ JavaScript - Nodejs
++ Odoo v17/18
++ MySQL - MongoDB
+
+# DevOps
++ Docker & Kubernetes
++ CI/CD (GitLab / GitHub Actions)
++ Terraform & Ansible
++ Monitoring (CoRoot, UptimeRobot)
