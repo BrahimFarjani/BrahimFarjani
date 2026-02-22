@@ -125,6 +125,18 @@
 <td align="center" style="border:none;">
 <img src="https://avatars.githubusercontent.com/u/66906464?s=280&v=4" width="90"/><br>CoRoot
 </td>
+
+<td align="center" style="border:none;">
+<img src="https://www.servermo.com/images/other-logos/vmware-esxi-logo.png" width="90"/><br>vSphere
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Wazuh-Logo-2022.png" width="90"/><br>vSphere
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://docs.brevis.one/current/en/Content/Resources/Images/Images_EN/zabbix%20logo_370x133.png" width="90"/><br>vSphere
+</td>
 </tr>
 
 </table>
