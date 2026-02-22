@@ -91,7 +91,7 @@
 </td>
 
 <td align="center" style="border:none;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Palo_Alto_Networks_Logo.svg" width="90"/><br>Palo Alto
+<img src="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/logos/brand/primary-company-logo/Parent-logo.png?imwidth=480" width="90"/><br>Palo Alto
 </td>
 
 <td align="center" style="border:none;">
@@ -109,7 +109,7 @@
 </td>
 
 <td align="center" style="border:none;">
-<img src="https://www.logo.wine/a/logo/Redmine/Redmine-Logo.wine.svg" width="70"/><br>Redmine
+<img src="https://www.drupal.org/files/styles/grid-3-2x/public/images/Redmine-Logo-CyberSprocket-Composite-300x300-png8.png?itok=TOEGwFSB" width="70"/><br>Redmine
 </td>
 
 <td align="center" style="border:none;">
@@ -117,7 +117,7 @@
 </td>
 
 <td align="center" style="border:none;">
-<img src="https://commons.wikimedia.org/wiki/File:Jira_Logo.svg" width="70"/><br>Jira
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" width="70"/><br>Jira
 </td>
 </tr>
 
