@@ -9,7 +9,7 @@
 
 ## 🚀 Tech Stack
 
-<table align="center" border="0" cellspacing="0" cellpadding="10" style="border:none;">
+<table align="center" border="0" cellspacing="0" cellpadding="15" style="border:none; border-collapse:collapse;">
 
 <tr>
 
@@ -35,21 +35,107 @@
 
 </tr>
 
+<tr>
+
+<td align="center" style="border:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br>Python
+</td>
+
+<td align="center" style="border:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/><br>Docker
+</td>
+
+<td align="center" style="border:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/><br>Kubernetes
+</td>
+
+<td align="center" style="border:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br>MySQL
+</td>
+
+<td align="center" style="border:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/><br>PostgreSQL
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="border:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/><br>HTML5
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/><br>CSS3
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/><br>JavaScript
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/><br>Git
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/><br>MongoDB
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="border:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60"/><br>Linux
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="60"/><br>Windows
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="70"/><br>Cisco
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Palo_Alto_Networks_Logo.svg" width="90"/><br>Palo Alto
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg" width="90"/><br>Fortinet
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70"/><br>AWS
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://coroot.com/static/images/logo.svg" width="90"/><br>CoRoot
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Uptime_Robot_Logo.svg" width="90"/><br>UptimeRobot
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Redmine_logo.svg" width="70"/><br>Redmine
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://glpi-project.org/wp-content/uploads/2020/06/logo-glpi.png" width="70"/><br>GLPI
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" width="70"/><br>Jira
+</td>
+
+</tr>
+
 </table>
-
-
-<p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
-
-</p>
-
----
 
 ## 🔥 Technical Expertise
 
