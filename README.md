@@ -113,9 +113,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="70"/><br>AWS
 </td>
 
-<td align="center" style="border:none;">
+<!-- <td align="center" style="border:none;">
 <img src="https://coroot.com/static/images/logo.svg" width="90"/><br>CoRoot
-</td>
+</td> -->
 
 <td align="center" style="border:none;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Uptime_Robot_Logo.svg" width="90"/><br>UptimeRobot
@@ -132,6 +132,7 @@
 <td align="center" style="border:none;">
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg" width="70"/><br>Jira
 </td>
+
 
 </tr>
 
